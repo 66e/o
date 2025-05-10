@@ -1,7 +1,7 @@
 <audio id="player" controls="">
     <source src="https://oss.mojidict.com/article/audio/dd16f7f0-8367-4d49-830a-3a66d0489982.mp3" type="audio/mpeg">
 </audio>
-<div style="min-height: 200px;" id="lyricer"></div>
+<div style="height: 200px" id="lyricer"></div>
 
 <script type="text/javascript" src="https://lusaisai.github.io/Lyricer/Lyricer-master/lyricer.min.js"></script>
 <link rel="stylesheet" href="https://lusaisai.github.io/Lyricer/Lyricer-master/lyricer.min.css">

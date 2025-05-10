@@ -4,7 +4,7 @@
     <source src="https://oss.mojidict.com/article/audio/dd16f7f0-8367-4d49-830a-3a66d0489982.mp3" type="audio/mpeg">
 </audio>
 
-<div style="min-height: 200px;" class="rabbit-lyrics" data-media="#audio-1">
+<div style="height: 200px" class="rabbit-lyrics" data-media="#audio-1">
 [00:29.40]いつだって誰かを想う (无论何时都会想起某个人)
 [00:34.34]
 [00:35.53]優しい嘘だって (就算只是温柔的谎言)
